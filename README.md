@@ -317,7 +317,7 @@ The assistant will:
 - maintain the conversation context across turns
 - refuse anything outside the Singapore scope
 
-#### Note: For Live example, kindly refer files inside **Sample Q&A** folder.
+#### Note: For Live example, kindly refer files inside **"Sample Q&A"** folder.
 
 ---
 
