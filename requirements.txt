@@ -1,0 +1,24 @@
+# application orchestration, prompts, retrieval, and tool integration
+langchain
+langchain-community
+langchain-classic
+langchain-text-splitters
+
+# LLM 
+langchain-google-genai
+
+# embedding model + vector database
+faiss-cpu
+
+# web scraping / data fetching
+requests
+beautifulsoup4
+
+# UI, config, tests
+gradio
+python-dotenv
+
+# MCP
+httpx
+langchain-mcp-adapters
+mcp
