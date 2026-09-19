@@ -284,6 +284,7 @@ Then open the local Gradio URL shown in the terminal.
 AI_Travel_Planning_Assistant/
 ├── requirements.txt
 ├── .env
+├── Sample Q&A
 ├── src/
 │   ├── app.py
 │   ├── agent.py
@@ -299,7 +300,7 @@ AI_Travel_Planning_Assistant/
 
 ---
 
-## How the System Behaves in Practice
+## How the System Behaves in Practice (Sample Q&A)
 
 Example user interactions:
 
@@ -316,6 +317,8 @@ The assistant will:
 - maintain the conversation context across turns
 - refuse anything outside the Singapore scope
 
+#### Note: For Live example, kindly refer files inside **Sample Q&A** folder.
+
 ---
 
 ## Notes and Limitations
@@ -326,3 +329,11 @@ The assistant will:
 - Weather and currency responses depend on external APIs being available.
 
 This design keeps the assistant trustworthy, focused, and grounded in a specific destination domain.
+
+## Author
+
+- Vikas Sojitra
+
+## Video Demonstration
+
+- **Google Drive Link:** https://drive.google.com/file/d/1tWFhKOeK3nFoDIDr7Vua5K6iVZNbj8iy/view?usp=sharing
